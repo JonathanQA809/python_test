@@ -1,3 +1,6 @@
-Alpha.txt.txt
-python_test/
+.pytest/
+venv/
+.idea/
+.pytest_cache/
+__pycache__/
 
